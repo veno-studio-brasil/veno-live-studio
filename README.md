@@ -32,4 +32,4 @@ O Veno Live Studio permite gravar a tela do computador e realizar transmissões 
 Baixe o arquivo `.deb` na página de lançamentos e execute:
 
 ```bash
-sudo apt install ./veno-live-studio_8.0.0_all.deb
+sudo apt install ./veno-live-studio_15.0.0_all.deb
